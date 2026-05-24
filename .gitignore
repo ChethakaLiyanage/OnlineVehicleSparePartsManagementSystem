@@ -1,0 +1,13 @@
+# Build folders
+build/
+classes/
+target/
+bin/
+
+# OS/IDE files
+.DS_Store
+Thumbs.db
+
+# Custom MySQL data
+mysql_data/
+mysql-init.txt
